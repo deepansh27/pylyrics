@@ -1,6 +1,6 @@
 # PyLyricz
 
-It is a simple python GUI app that fetches the lyrics of the currently playing spotify song, or any song, and displays it on a window.
+A python GUI app that fetches the lyrics of the currently playing spotify song, or any song, and displays it on a window.
 
 Build with Python Gtk+3 (gi).
 
